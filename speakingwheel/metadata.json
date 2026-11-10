@@ -1,0 +1,8 @@
+{
+  "name": "SpeakSpin",
+  "description": "A colorful, interactive spinning wheel game designed to help elementary students practice English speaking and classroom communication.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
